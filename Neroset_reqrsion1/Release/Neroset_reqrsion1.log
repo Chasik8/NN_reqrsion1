@@ -1,0 +1,4 @@
+﻿Source.cpp(221,6): warning : unused variable 'pi' [-Wunused-variable]
+Source.cpp(238,6): warning : unused variable 'pi' [-Wunused-variable]
+Source.cpp(260,7): warning : unused variable 'tim' [-Wunused-variable]
+  Neroset_reqrsion1.vcxproj -> D:\Project\C++\VisualStudioproject\C++\Neroset_reqrsion1\Release\Neroset_reqrsion1.exe

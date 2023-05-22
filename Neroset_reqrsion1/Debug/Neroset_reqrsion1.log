@@ -1,0 +1,4 @@
+﻿Source.cpp(130,16): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+Source.cpp(130,54): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+Source.cpp(105,7): warning : unused variable 'tim' [-Wunused-variable]
+  Neroset_reqrsion1.vcxproj -> D:\Project\C++\VisualStudioproject\C++\Neroset_reqrsion1\Debug\Neroset_reqrsion1.exe
